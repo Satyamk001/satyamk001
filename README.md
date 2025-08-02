@@ -11,18 +11,30 @@
 <br/>
 
 <!-- Social Links -->
-<a href="mailto:satyamkmr37@gmail.com">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.linkedin.com/in/satyamk001/">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973962-59c7c549-7c7a-4c83-a91e-b484e91c13ac.png"/>
-</a>
-<a href="https://satyamk001.netlify.app/">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166974374-32df7d31-10cb-4430-8e90-c31b2b90adc7.png"/>
-</a>
-<a href="https://github.com/satyamk001">
-  <img height="40" src="https://user-images.githubusercontent.com/46517096/166973919-9c986f06-2f10-4b6e-b6e1-3a1befd4c6a7.png"/>
-</a>
+<div align="center">
+
+  <a href="mailto:satyamkmr37@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/satyamk001/">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://satyamk001.netlify.app/">
+    <img height="40" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://github.com/satyamk001">
+    <img height="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://leetcode.com/Satyamk001/">
+    <img height="40" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+</div>
+
 
 <br/><br/>
 
