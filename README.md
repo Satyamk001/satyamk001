@@ -46,7 +46,6 @@ const satyam = {
     
     currentFocus: [
         "Building scalable web applications",
-        "AI-powered solutions",
         "Mobile app development"
     ],
     
@@ -80,27 +79,26 @@ const satyam = {
 <div align="center">
 
 ### 🎯 Rozgars - Job Portal Platform
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamk001/rozgars)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 Complete job marketplace with multi-user system, resume parsing, and mobile app.
 
-### 🏋️‍♂️ FitnessFreak - Wellness Platform
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamk001/fitnessfreak)
+### 🏋️‍♂️ Fitnest - Gym Management Platform
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+ 
+attendance tracking, salary calculation based on leave days, and membership plan 
+purchases
 
-MERN stack health tracking platform with workout monitoring and goal tracking.
-
-### 🤖 AI Blog Generator
-[![Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamk001/ai-blog)
+### 🏋️‍♂️ AI Diagram Creator - Mermaid Sketcher
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
-
-AI-powered content creation tool with customizable tone and industry-specific features.
+![Ai Integration](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Tailwind Css](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+ 
+An intelligent diagram creation tool that combines Mermaid syntax with AI assistance.
 
 </div>
 
