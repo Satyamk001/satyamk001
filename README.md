@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/e71145201456469.667499b196cba.jpg" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </div>
+
 <div align="center">
-Hi there! I'm Satyam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+# I'm Satyam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%7C+MERN+%7C+React+Native;Building+Scalable+Web+Applications;AI+%26+Modern+Tech+Enthusiast;Turning+Complex+Ideas+into+Reality" alt="Typing SVG" />
+
+<br/>there! I'm Satyam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Angular+%7C+MERN+%7C+React+Native+%7C+AI+Integration" />
 
