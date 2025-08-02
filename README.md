@@ -82,8 +82,8 @@ Attendance tracking, salary calculation based on leave days, and membership plan
 
 ### 🧠 AI Diagram Creator - Mermaid Sketcher
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Ai Integration](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Tailwind Css](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6B35?style=flat&logo=openai&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
  
 An intelligent diagram creation tool that combines Mermaid syntax with AI assistance.
 
