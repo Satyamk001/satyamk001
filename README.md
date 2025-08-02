@@ -6,7 +6,7 @@
   
 # Hi there! I'm Satyam Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Angular+%7C+MERN+%7C+React+Native;AI+Integration+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Angular+%7C+MERN+%7C+React+Native+%7C+AI+Integration" />
 
 <br/>
 
@@ -26,40 +26,28 @@
 
 <br/><br/>
 
-<img align="right" alt="Coding GIF" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```javascript
-const satyam = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    
-    techStack: {
-        frontend: ["Angular", "React", "TypeScript", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        mobile: ["React Native"],
-        ai: ["OpenAI API", "AI Integration"]
-    },
-    
-    currentFocus: [
-        "Building scalable web applications",
-        "Mobile app development"
-    ],
-    
-    philosophy: "Code with purpose, build with impact ✨"
-};
-```
+- **Role:** Full Stack Developer  
+- **Location:** India 🇮🇳  
+- **Frontend:** Angular, React, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL  
+- **Mobile:** React Native  
+- **AI:** OpenAI API, AI Integration  
+- **Current Focus:** Building scalable web applications, Mobile app development  
+- **Philosophy:** Code with purpose, build with impact ✨  
 
-<br clear="right"/>
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=400&lines=Frontend+Technologies;Backend+Development;Mobile+%26+AI+Integration" alt="Tech Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=400&lines=Frontend+Technologies;Backend+Development;Mobile+Apps;AI+Integration" />
 
 <br/>
 
@@ -90,10 +78,9 @@ Complete job marketplace with multi-user system, resume parsing, and mobile app.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
  
-attendance tracking, salary calculation based on leave days, and membership plan 
-purchases
+Attendance tracking, salary calculation based on leave days, and membership plan purchases.
 
-### 🏋️‍♂️ AI Diagram Creator - Mermaid Sketcher
+### 🧠 AI Diagram Creator - Mermaid Sketcher
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![Ai Integration](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Tailwind Css](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
@@ -105,7 +92,7 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=satyamk001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=satyamk001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamk001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
 </div>
 
@@ -119,7 +106,7 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Open+to+collaborations!;Let's+build+something+amazing;Always+learning+%26+growing" alt="Connect" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Open+to+collaborations!;Let's+build+something+amazing!" />
 
 <br/>
 
@@ -129,7 +116,7 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=⭐+Star+my+repositories;🚀+Open+to+opportunities;💡+Let's+innovate+together" alt="CTA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=⭐+Star+my+repositories;🚀+Open+to+opportunities!" />
 
 <br/>
 
