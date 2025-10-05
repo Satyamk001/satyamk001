@@ -146,32 +146,23 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 </div>
 ---
 
-## 📈 My Developer Metrics & Contributions
+## 🏆 Extra GitHub Metrics
 
-<p align="center">
+<div align="center">
 
-[![Satyam’s GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamk001&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/satyamk001)
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=satyamk001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamk001&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/satyamk001)
+<br/><br/>
 
-[![Last Commit](https://img.shields.io/github/last-commit/satyamk001/nameofrepo?style=flat&logo=github&logoColor=white)](https://github.com/satyamk001/nameofrepo)
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFD700" />
 
-[![Contributors to ProjectX](https://img.shields.io/github/contributors/satyamk001/ProjectX?style=flat&logo=github&logoColor=white)](https://github.com/satyamk001/ProjectX)
+<br/><br/>
 
-[![Downloads for ProjectY](https://img.shields.io/github/downloads/satyamk001/ProjectY/total?style=flat&logo=github&logoColor=white)](https://github.com/satyamk001/ProjectY/releases)
-</p>
+<!-- Commits + Repos -->
+![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge&logo=github)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/satyamk001/satyamk001?style=for-the-badge&logo=github)
 
----
-
-## 🛠 Skills & Contributions
-
-| Area                | What I Do / Examples |
-|---------------------|----------------------|
-| Open-Source / Community | Contributed PRs to libs, issues triaging, docs improvements |
-| Problems Solved     | Worked on complex feature modules, bug fixes, performance optimizations |
-| Leadership & Mentorship | Guided juniors, did code reviews, shared knowledge internally |
-| Side Projects        | Built mini tools, experiment apps, publish to npm / GitHub |
-| Tech Focus           | Angular, React, Node.js, AI integrations, mobile apps |
-
----
+</div>
 
