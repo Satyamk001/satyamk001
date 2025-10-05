@@ -8,7 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%7C+MERN+%7C+React+Native;Building+Scalable+Web+Applications;AI+%26+Modern+Tech+Enthusiast;Turning+Complex+Ideas+into+Reality" alt="Typing SVG" />
 
-
 <br/>
 
 <!-- Social Links -->
@@ -36,12 +35,13 @@
 
 </div>
 
-
 <br/><br/>
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
@@ -54,7 +54,7 @@
 - **Current Focus:** Building scalable web applications, Mobile app development  
 - **Philosophy:** Code with purpose, build with impact ✨  
 
-<br/>
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
@@ -74,8 +74,9 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 </div>
+
+---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
@@ -104,6 +105,8 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 
 </div>
 
+---
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
@@ -116,6 +119,30 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamk001&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+## 🏆 Extra GitHub Metrics
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=satyamk001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+<br/><br/>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFD700" />
+
+<br/><br/>
+
+<!-- Commits + Repos -->
+![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge&logo=github)
+![GitHub Commits](https://img.shields.io/github/commit-activity/y/satyamk001/satyamk001?style=for-the-badge&logo=github)
+
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Let's Connect
 
@@ -144,25 +171,3 @@ An intelligent diagram creation tool that combines Mermaid syntax with AI assist
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamk001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
----
-
-## 🏆 Extra GitHub Metrics
-
-<div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=satyamk001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-<br/><br/>
-
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFD700" />
-
-<br/><br/>
-
-<!-- Commits + Repos -->
-![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge&logo=github)
-![GitHub Commits](https://img.shields.io/github/commit-activity/y/satyamk001/satyamk001?style=for-the-badge&logo=github)
-
-</div>
-
