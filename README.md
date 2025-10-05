@@ -9,8 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Angular+%7C+MERN+%7C+React+Native;Building+Scalable+Web+Applications;AI+%26+Modern+Tech+Enthusiast;Turning+Complex+Ideas+into+Reality" alt="Typing SVG" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Angular+%7C+MERN+%7C+React+Native+%7C+AI+Integration" />
-
 <br/>
 
 <!-- Social Links -->
