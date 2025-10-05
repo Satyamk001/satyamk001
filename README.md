@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Satyam Kumar 👋</h1>
+<h1 align="center">Satyam Kumar</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | Angular | MERN | React Native | AI Enthusiast  
+  <b>Full Stack Developer | Angular | MERN | React Native | AI Enthusiast</b>
 </p>
 
 <p align="center">
   <a href="mailto:satyamkmr37@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/satyamk001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://satyamk001.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=netlify&logoColor=white" /></a>
-  <a href="https://github.com/satyamk001"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" /></a>
+  <a href="https://github.com/satyamk001"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/Satyamk001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
 </p>
 
@@ -21,7 +21,7 @@
 - **Backend:** Node.js, Express.js, MongoDB, MySQL  
 - **Mobile:** React Native  
 - **AI:** OpenAI API, AI Integration  
-- **Focus:** Scalable web apps & mobile development  
+- **Focus:** Scalable web apps & mobile solutions  
 - **Philosophy:** Code with purpose, build with impact ✨  
 
 ---
@@ -55,7 +55,6 @@ React + Tailwind + AI → Generate intelligent diagrams with Mermaid syntax + AI
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=satyamk001&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamk001&layout=compact&theme=tokyonight&hide_border=true"/>
